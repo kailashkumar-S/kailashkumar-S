@@ -3,10 +3,10 @@
 
 -  I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
 
-Resume 
+Resume [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 <p align="center">
- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
- <a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a> 
  <a href="#">
