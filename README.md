@@ -1,9 +1,8 @@
+![Header](/header.png)
 
 - I have a background in finance and engineering. I have strong work experience in data analytics and programming. I am currently working for a corporate bank to help them build credit risk model using python and R.
 
 -  I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
-
--  Check out my CV [here](#)
 
 <p align="center">
   <a href="#">
@@ -19,11 +18,11 @@
   
 
 
-## I am currently reading 📖
+### I am currently reading 📖
 
 
 
-## 💻 Programming skills 
+### 💻 Programming skills 
 <p align="left">
  <a href="#">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
@@ -36,10 +35,10 @@
   </a> 
 </p>
 
-## 📊 Projects 
+### 📊 Projects 
 
 - I have linked to all the projects that I have built during my work and free time.
 
-## 📚 Resources 
+### 📚 Resources 
 
 - Links to resources that I found to be very helpful
