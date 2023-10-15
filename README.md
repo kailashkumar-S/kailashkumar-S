@@ -20,6 +20,10 @@ I have a background in finance and engineering. I have strong work experience in
 ### 📊 Projects 
 
 - I have linked to all the projects that I have built during my work and free time.
+| Name | Description |
+| --- | --- |
+| Web scraper | Python tool to scrape tables from a website |
+| CreditMetrics Model  | CreditMetrics model using R |
 
 ### 📚 Resources 
 
