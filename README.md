@@ -31,6 +31,7 @@ I have linked to all the projects that I have built during my work and free time
 
 - Links to resources that I collected while researching and learning
 
+| Books | Videos |
 
 ### Tools I use
 <p align="left">
