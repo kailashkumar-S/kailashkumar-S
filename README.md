@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**kailashkumar-S/kailashkumar-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I have a background in finance and engineering. I have strong work experience in data analytics and programming. I am currently working for a corporate bank to help them build credit risk model using python and R.
 
-Here are some ideas to get you started:
+-  I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Resume 
+<p align="center">
+ <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
+  
+Linkedin
+Mail
+
+#I am currently learning
+
+stochasitic calculus and financial data analysis using R and Python.
+
+
+#Programming skills
+
+#Projects
+
+- I have linked to all the projects that I have built during my work and free time.
+
+#Resources
+
+- Links to resources that I found to be very helpful
