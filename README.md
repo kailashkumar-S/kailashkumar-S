@@ -3,7 +3,7 @@
 
 -  I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
 
-Resume [![Ask Me Anything !](https://img.shields.io/badge/Resume-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Resume!](https://img.shields.io/badge/My%20Resume-1abc9c.svg)](#)
 
 <p align="center">
   <a href="#">
