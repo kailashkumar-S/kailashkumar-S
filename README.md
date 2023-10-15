@@ -13,7 +13,7 @@ Resume
 Linkedin
 Mail
 
-#I am currently learning
+##I am currently learning
 
 stochasitic calculus and financial data analysis using R and Python.
 
