@@ -1,9 +1,5 @@
 ![Header](/header.png)
 
-- I have a background in finance and engineering. I have strong work experience in data analytics and programming. I am currently working for a corporate bank to help them build credit risk model using python and R.
-
--  I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
-
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
@@ -15,6 +11,13 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
+
+
+- I have a background in finance and engineering. I have strong work experience in data analytics and programming. I am currently working for a corporate bank to help them build credit risk model using python and R.
+
+-  I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
+
+
   
 
 
