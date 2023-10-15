@@ -23,7 +23,7 @@ I have linked to all the projects that I have built during my work and free time
 
 | Name | Description |
 | --- | --- |
-| Web scraper | Python tool to scrape tables from a website |
+| Options Pricing Model | Pricing an european option using Monte Carlo simulation |
 | CreditMetrics Model  | CreditMetrics model using R |
 
 
