@@ -5,15 +5,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a> 
  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
-  </a>
- <a href="#">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
 
-I finance student with a backgroung in engineering. I have strong work experience in quantitative finance and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
+I finance student with a backgroung in engineering. I have strong work experience in quantitative finance and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance. You can always mail me at kailashkumar.official@gmail.com
 
 
 
