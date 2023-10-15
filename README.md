@@ -28,7 +28,7 @@ I have a background in finance and engineering. I have strong work experience in
 
 
 
-### 💻 Programming skills 
+### 💻 I program using
 <p align="left">
  <a href="#">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
