@@ -13,7 +13,7 @@
 </p>
 
 
-I have a background in finance and engineering. I have strong work experience in data analytics and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
+I finance student with a backgroung in engineering. I have strong work experience in quantitative finance and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
 
 
 
