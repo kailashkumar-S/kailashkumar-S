@@ -5,7 +5,7 @@
 
 Resume 
 <p align="center">
- [![Resume](https://img.shields.io/badge/Resume-8A2BE2)](#)
+ [![Resume](https://img.shields.io/badge/resume-8A2BE2.svg)](#)
  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a> 
