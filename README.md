@@ -15,6 +15,15 @@
 
 I have a background in finance and engineering. I have strong work experience in data analytics and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance.
 
+
+
+### 📊 Projects 
+
+- I have linked to all the projects that I have built during my work and free time.
+
+### 📚 Resources 
+
+- Links to resources that I found to be very helpful
 ### I am currently reading 📖
 
 
@@ -31,11 +40,3 @@ I have a background in finance and engineering. I have strong work experience in
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
-
-### 📊 Projects 
-
-- I have linked to all the projects that I have built during my work and free time.
-
-### 📚 Resources 
-
-- Links to resources that I found to be very helpful
