@@ -18,12 +18,12 @@ Resume
   
 
 
-## I am currently reading
+## I am currently reading 📖
 
 
 
-## Programming skills
-<p align="center">
+## Programming skills 💻
+<p align="left">
  <a href="#">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -35,10 +35,10 @@ Resume
   </a> 
 </p>
 
-## Projects
+## Projects 📊
 
 - I have linked to all the projects that I have built during my work and free time.
 
-## Resources
+## Resources 📚
 
 - Links to resources that I found to be very helpful
