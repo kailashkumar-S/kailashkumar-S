@@ -23,9 +23,7 @@ I have a background in finance and engineering. I have strong work experience in
 
 ### 📚 Resources 
 
-- Links to resources that I found to be very helpful
-### I am currently reading 📖
-
+- Links to resources that I collected while researching and learning
 
 
 ### Tools I use
