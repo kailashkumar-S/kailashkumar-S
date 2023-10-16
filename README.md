@@ -22,10 +22,10 @@ If you want to connect and discuss all things finance, technology, and innovatio
 
 I have linked to all the projects that I have built during my work and free time.
 
-| Name | Description |
-| --- | --- |
-| Options Pricing Model | Pricing an european option using Monte Carlo simulation |
-| [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R |
+| Name | Description | Status | 
+| --- | --- | --- |
+| Options Pricing Model | Pricing an european option using Monte Carlo simulation | Work In Progress | 
+| [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R | Work In Progress |
 
 
 ### 📚 Resources 
