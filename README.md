@@ -26,7 +26,7 @@ I have linked to all the projects that I have built during my work and free time
 
 ### 📚 Resources 
 
-Link to all the resources that I collected while researching and learning. [Here](#)
+Link to all the resources that I collected while researching and learning. [Here](Resources/Resources.md)
 
 ### Tools I use
 <p align="left">
