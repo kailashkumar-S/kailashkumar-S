@@ -10,7 +10,7 @@
 </p>
 
 
-I finance student with a backgroung in engineering. I have strong work experience in quantitative finance and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance. You can always mail me at kailashkumar.official@gmail.com
+I am a finance student with a backgroung in engineering. I have strong work experience in quantitative finance and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance. You can always mail me at kailashkumar.official@gmail.com
 
 
 
