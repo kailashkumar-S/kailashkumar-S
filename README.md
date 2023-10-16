@@ -34,13 +34,16 @@ Link to all the resources that I collected while researching and learning. [Here
 
 ### Tools I use
 <p align="left">
- <a href="#">
+ <a href="#tools-i-use">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a>
- <a href="#">
+ <a href="#tools-i-use">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a> 
- <a href="#">
+ <a href="#tools-i-use">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#tools-i-use">
+    <img src="![Visual Basic Badge](https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=for-the-badge)">
   </a> 
 </p>
