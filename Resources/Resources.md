@@ -1,11 +1,10 @@
 # Books
 | Name | Author |
 | --- | --- |
-| Options Pricing Model | Pricing an european option using Monte Carlo simulation |
-| CreditMetrics Model  | CreditMetrics model using R |
+| [Statistical Analysis of Financial Data in R](Resources/Books/Statistical  Analysis of Financial Data in R - R. Carmona.pdf) | René Carmona |
+
 
 # Research Papers
 | Name | Description |
 | --- | --- |
-| Options Pricing Model | Pricing an european option using Monte Carlo simulation |
 | CreditMetrics Model  | CreditMetrics model using R |
