@@ -7,4 +7,4 @@
 # Research Papers
 | Name | Description |
 | --- | --- |
-| [CreditMetrics Model](Resources/CreditMetricsModel/notes.md)  | CreditMetrics model using R |
+| [CreditMetrics Model](https://github.com/kailashkumar-S/kailashkumar-S/blob/34fbddc702a750ad4479d66f3f6bee972a80962d/Resources/CreditMetricsModel/notes.md)  | CreditMetrics model using R |
