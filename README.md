@@ -25,7 +25,7 @@ I have linked to all the projects that I have built during my work and free time
 | Name | Description |
 | --- | --- |
 | Options Pricing Model | Pricing an european option using Monte Carlo simulation |
-| CreditMetrics Model  | CreditMetrics model using R |
+| [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R |
 
 
 ### 📚 Resources 
