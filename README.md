@@ -1,5 +1,12 @@
 ![Header](/header.png)
 
+I'm a finance enthusiast with an engineering background that has equipped me with a strong foundation in quantitative finance and programming. Currently, I'm immersed in an exciting role at a corporate bank where I'm leveraging my skills in Python and R to build credit risk models.
+
+👨‍💻 I'm passionately exploring a career path that lies at the crossroads of programming, statistics, and quantitative finance. This journey excites me, and I'm always eager to connect with like-minded individuals who share this exciting vision.
+
+If you want to connect and discuss all things finance, technology, and innovation, feel free to reach out to me at kailashkumar.official@gmail.com. Let's embark on this exhilarating journey together. 🙌
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kailash26/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
@@ -8,15 +15,6 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
-
-
-I'm a finance enthusiast with an engineering background that has equipped me with a strong foundation in quantitative finance and programming. Currently, I'm immersed in an exciting role at a corporate bank where I'm leveraging my skills in Python and R to build credit risk models.
-
-👨‍💻 I'm passionately exploring a career path that lies at the crossroads of programming, statistics, and quantitative finance. This journey excites me, and I'm always eager to connect with like-minded individuals who share this exciting vision.
-
-If you want to connect and discuss all things finance, technology, and innovation, feel free to reach out to me at kailashkumar.official@gmail.com. Let's embark on this exhilarating journey together. 🙌
-
-
 
 ### 📊 Projects 
 
