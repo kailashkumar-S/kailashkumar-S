@@ -7,4 +7,4 @@
 # Research Papers
 | Name | Description |
 | --- | --- |
-| CreditMetrics Model  | CreditMetrics model using R |
+| [CreditMetrics Model](Resources/CreditMetricsModel/notes.md)  | CreditMetrics model using R |
