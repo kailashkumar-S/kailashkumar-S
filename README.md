@@ -10,7 +10,11 @@
 </p>
 
 
-I am a finance student with a backgroung in engineering. I have strong work experience in quantitative finance and programming. I am currently working for a corporate bank to help them build credit risk models using python and R. I am looking to forge a career that is at the intersection of programming, statistics and quantitiatve finance. You can always mail me at kailashkumar.official@gmail.com
+I'm a finance enthusiast with a unique engineering background that has equipped me with a strong foundation in quantitative finance and programming. Currently, I'm immersed in an exciting role at a corporate bank where I'm leveraging my skills in Python and R to construct cutting-edge credit risk models.
+
+👨‍💻 I'm passionately exploring a career path that lies at the dynamic crossroads of programming, statistics, and quantitative finance. This journey thrills me, and I'm always eager to connect with like-minded individuals who share this exciting vision.
+
+If you're as captivated by this intersection as I am, or simply want to connect and discuss all things finance, technology, and innovation, feel free to reach out to me at kailashkumar.official@gmail.com. Let's embark on this exhilarating journey together. 🙌
 
 
 
