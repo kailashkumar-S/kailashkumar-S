@@ -1,10 +1,10 @@
 ![Header](/header.png)
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/kailash26/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a> 
- <a href="#">
+ <a href="https://www.kaggle.com/kailashkumars/code">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
