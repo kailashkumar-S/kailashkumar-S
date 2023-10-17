@@ -24,7 +24,7 @@ I have linked to all the projects that I have built during my work and free time
 | --- | --- | --- |
 | Options Pricing Model | Pricing an european option using Monte Carlo simulation | Work In Progress | 
 | [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R | Work In Progress |
-
+| [Stock Price Plot](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | A simple python excercise to plot the stock price using candlestick chart with 20 and 50 day moving averages | Complete |
 
 ### 📚 Resources 
 
