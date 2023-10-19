@@ -1,4 +1,4 @@
-# Books
+## Books
 ##### Financial Mathematics
 | Name | Author |
 | --- | --- |
@@ -20,7 +20,13 @@
 | [Python for Data Analysis-O'Reilly Media](https://github.com/kailashkumar-S/kailashkumar-S/blob/9bbbe922046a35659f387d1b82bf6d6e88671d6c/Resources/Books/Wes%20McKinney%20-%20Python%20for%20Data%20Analysis-O'Reilly%20Media%20(2012).epub) | Wes Mckinney |
 
 
-# Research Papers
+## Research Papers
 | Name | Description |
 | --- | --- |
 | [CreditMetrics Model](https://github.com/kailashkumar-S/kailashkumar-S/blob/34fbddc702a750ad4479d66f3f6bee972a80962d/Resources/CreditMetricsModel/notes.md)  | CreditMetrics model using R |
+
+## Blogs and Cheatsheets
+| --- | --- |
+|[QuantPy Blog](https://quantpy.com.au/)| Python in Quantitative finance tutorials |
+|[Manual for BackTrader Package](https://www.backtrader.com/blog/)| |
+|[Dplyr Data Wrangling Cheatsheet](https://github.com/rstudio/cheatsheets/blob/a045e18875cde4c9cf9c7f5f8bee71b4c8c2a2b7/data-transformation.pdf)| Data Transformation with Dplyr |
