@@ -26,6 +26,7 @@
 | [CreditMetrics Model](https://github.com/kailashkumar-S/kailashkumar-S/blob/34fbddc702a750ad4479d66f3f6bee972a80962d/Resources/CreditMetricsModel/notes.md)  | CreditMetrics model using R |
 
 ## Blogs and Cheatsheets
+| Name | Description |
 | --- | --- |
 |[QuantPy Blog](https://quantpy.com.au/)| Python in Quantitative finance tutorials |
 |[BackTrader Package](https://www.backtrader.com/blog/)|Manual for BackTrader Package |
