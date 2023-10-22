@@ -28,7 +28,7 @@
 ## Blogs and Cheatsheets
 | Name | Description |
 | --- | --- |
-|[QuantPy Blog](https://quantpy.com.au/)| Python in Quantitative finance tutorials |
+<!-- |[QuantPy Blog](https://quantpy.com.au/)| Python in Quantitative finance tutorials | -->
 |[BackTrader Package](https://www.backtrader.com/blog/)|Manual for BackTrader Package |
 |[Dplyr Data Wrangling Cheatsheet](https://github.com/rstudio/cheatsheets/blob/a045e18875cde4c9cf9c7f5f8bee71b4c8c2a2b7/data-transformation.pdf)| Data Transformation with Dplyr |
 
