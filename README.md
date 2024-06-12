@@ -20,8 +20,8 @@ I have linked to all the projects that I have built during my work and free time
 
 | Name | Description |
 | --- | --- | 
-| [Simulating a Random Walk of Stock Price](https://github.com/kailashkumar-S/kailashkumar-S/blob/92e6c0ad119c7c09edc492da8ac637e8d794f46d/Projects/Stock_Price_Simulation_GBM.ipynb) 
-| [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R | Complete |
+| [Simulating a Random Walk of Stock Price](https://github.com/kailashkumar-S/kailashkumar-S/blob/92e6c0ad119c7c09edc492da8ac637e8d794f46d/Projects/Stock_Price_Simulation_GBM.ipynb) | Using geometric brownian motion, a random walk of stock price is simulated |
+| [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R | 
 | [Stock Price Plot](https://www.kaggle.com/kailashkumars/stock-price-plot)  | A simple python excercise to plot the stock price in a candlestick chart with 20 and 50 day moving averages | 
 | [Historical VAR analysis of stock price returns](https://www.kaggle.com/code/kailashkumars/historical-var-analysis)| Analyse the variance in returns using historical VAR method, calculate important risk-return ratios such as Sharpe, Sortino, etc |
 | [Simple and Log normal Return Plots](https://www.kaggle.com/code/kailashkumars/simple-and-log-normal-return-plots)| Analyse the variance in returns using historical VAR method, calculate important risk-return ratios such as Sharpe, Sortino, etc |
