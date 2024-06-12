@@ -18,14 +18,14 @@ I'm passionately exploring a career path that lies at the crossroads of programm
 
 I have linked to all the projects that I have built during my work and free time.
 
-| Name | Description | Status | 
-| --- | --- | --- |
+| Name | Description 
+| --- | --- | 
 | Options Pricing Model | Pricing an european option using Monte Carlo simulation | In Progress | 
-| [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R | In Progress |
-| [Stock Price Plot](https://www.kaggle.com/kailashkumars/stock-price-plot)  | A simple python excercise to plot the stock price in a candlestick chart with 20 and 50 day moving averages | Complete |
-| [Historical VAR analysis of stock price returns](https://www.kaggle.com/code/kailashkumars/historical-var-analysis)| Analyse the variance in returns using historical VAR method, calculate important risk-return ratios such as Sharpe, Sortino, etc | Complete |
-| [Simple and Log normal Return Plots](https://www.kaggle.com/code/kailashkumars/simple-and-log-normal-return-plots)| Analyse the variance in returns using historical VAR method, calculate important risk-return ratios such as Sharpe, Sortino, etc | Complete |
-| [Forward Rate Substitution](https://www.kaggle.com/kailashkumars/forward-rate-substitution)| A simple python function to calculate 1 Year forward rates using yield curve | Complete |
+| [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R |
+| [Stock Price Plot](https://www.kaggle.com/kailashkumars/stock-price-plot)  | A simple python excercise to plot the stock price in a candlestick chart with 20 and 50 day moving averages | 
+| [Historical VAR analysis of stock price returns](https://www.kaggle.com/code/kailashkumars/historical-var-analysis)| Analyse the variance in returns using historical VAR method, calculate important risk-return ratios such as Sharpe, Sortino, etc | 
+| [Simple and Log normal Return Plots](https://www.kaggle.com/code/kailashkumars/simple-and-log-normal-return-plots)| Analyse the variance in returns using historical VAR method, calculate important risk-return ratios such as Sharpe, Sortino, etc | 
+| [Forward Rate Substitution](https://www.kaggle.com/kailashkumars/forward-rate-substitution)| A simple python function to calculate 1 Year forward rates using yield curve | 
 
 ### 📚 Resources 
 
