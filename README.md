@@ -27,10 +27,6 @@ I have linked to all the projects that I have built during my work and free time
 | [Simple and Log normal Return Plots](https://www.kaggle.com/code/kailashkumars/simple-and-log-normal-return-plots)| Analyse the variance in returns using historical VAR method, calculate important risk-return ratios such as Sharpe, Sortino, etc |
 | [Forward Rate Substitution](https://www.kaggle.com/kailashkumars/forward-rate-substitution)| A simple python function to calculate 1 Year forward rates using yield curve | 
 
-### 📚 Resources 
-
-Link to all the resources that I collected while researching and learning. [Here](Resources/Resources.md)
-
 ### Tools I use
 <p align="left">
  <a href="#tools-i-use">
