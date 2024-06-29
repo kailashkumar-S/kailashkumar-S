@@ -21,6 +21,7 @@ I have linked to all the projects that I have built during my work and free time
 | Name | Description |
 | --- | --- | 
 | [Black Scholes Model and Implied volatility](https://github.com/kailashkumar-S/kailashkumar-S/blob/0f4894e609f5e89af41ee9b9c7d6160dc2431b29/Projects/bs_and_iv_implementation.ipynb) | Option pricing function that uses Black Scholes and a function that estimates Implied volatility of options using Newton Raphson method | 
+| [Monte Carlo simulation using Heston Model](https://github.com/kailashkumar-S/kailashkumar-S/blob/32ed9a15c1e03f53d640311c63a15a173c3cf46c/Projects/Heston_Model.ipynb) | Simulating the price and volatility of a stock using the Heston model | 
 | [Simulating a Random Walk of Stock Price](https://github.com/kailashkumar-S/kailashkumar-S/blob/92e6c0ad119c7c09edc492da8ac637e8d794f46d/Projects/Stock_Price_Simulation_GBM.ipynb) | Using geometric brownian motion, a random walk of stock price is simulated |
 | [CreditMetrics Model](https://www.kaggle.com/code/kailashkumars/creditmetrics-model)  | CreditMetrics model using R | 
 | [Stock Price Plot](https://www.kaggle.com/kailashkumars/stock-price-plot)  | A simple python excercise to plot the stock price in a candlestick chart with 20 and 50 day moving averages | 
