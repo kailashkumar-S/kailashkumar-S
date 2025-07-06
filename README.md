@@ -14,7 +14,7 @@ I'm a finance enthusiast with an engineering background that has equipped me wit
 
 ### 📊 Projects 
 
-I have linked to all the projects that I have built during my work and free time.
+I have linked all the projects that I have built during my work and free time.
 
 | Name | Description |
 | --- | --- | 
